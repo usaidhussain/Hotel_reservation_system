@@ -16,6 +16,10 @@ The **Hotel Reservation System** is a console-based application designed to mana
 - **Programming Language**: Java (or relevant language)
 - **Data Storage**: Text files (or in-memory data storage if applicable)
 
-## Installation
-1. Clone the repository:
-   git clone https://github.com/your-username/hotel-reservation-system.git
+## License
+This project is licensed under the UnLicense.
+
+## Contact
+For questions or further information, please contact: usaidhussain01@gmail.com
+
+
